@@ -12,6 +12,7 @@ author_profile: true
 -->
 
 ### Teaching Assistant
+[Khoury College of Computer Science](https://www.khoury.northeastern.edu):
 - CS 2800 Logic and Computation, Fall 2022
 - CS 3500 Object-Oriented Design, Summer 1 2022
 - CS 2810 Mathematics of Data Models, Spring 2022
