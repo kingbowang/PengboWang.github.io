@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Pengbo Wang(王鹏博)"
   avatar           : "profile.png"
-  bio              : "MS student in computer science at Northeastern University"
+  bio              : "MS student in Computer Science at Northeastern University"
   location         : "Boston, MA"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # "academicpages"
+  github           : "https://github.com/kingbowang"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : # "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/pengbo-wang-7112b5169"
   orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
