@@ -15,9 +15,6 @@ Hi! I am a Master of Science in Computer Science student at [Khoury College of C
 - 2021, Bachelor of Science in Computer Science & Applied Mathematics, [University at Albany, SUNY](https://www.albany.edu)
 - 2021, Bachelor of Science in Software Engineering, [Chongqing University of Posts and Telecommunications](http://www.cqupt.edu.cn)
 
-
-## Research
-
 <!--
 A data-driven personal website
 ======
