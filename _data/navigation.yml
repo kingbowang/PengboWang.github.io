@@ -21,7 +21,8 @@ main:
   - title: "Contact"
     url: /contact
     
-  - title: "Sitemap"
-    url: /sitemap
+#  - title: "Sitemap"
+#    url: /sitemap
+
 #   - title: "Guide"
 #     url: /markdown/
