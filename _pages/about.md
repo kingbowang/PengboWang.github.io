@@ -8,12 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am a Master of Science in Computer Science student in [Khoury College of Computer Science](https://www.khoury.northeastern.edu) at [Northeastern University](https://www.northeastern.edu). Before this, I received my Bachelor degree form [Chongqing University of Posts and Communications](http://www.cqupt.edu.cn) and [University at Albany, State University of New York](https://www.albany.edu).
+Hi! I am a Master of Science in Computer Science student at [Khoury College of Computer Science](https://www.khoury.northeastern.edu) at [Northeastern University](https://www.northeastern.edu). Before this, I received my Bachelor's degree from [Chongqing University of Posts and Communications](http://www.cqupt.edu.cn) and [University at Albany, SUNY](https://www.albany.edu).
 
 ## Education
 - Expect to graduate in May 2023, Master of Science in Computer Science, [Northeastern University](https://www.northeastern.edu)
-- 2021, Bachelor of Science in Computer Science & Applied Mathematics [University at Albany, State University of New York](https://www.albany.edu)
-- 2021, Bachelor of Science in Software Engineering [Chongqing University of Posts and Telecommunications](http://www.cqupt.edu.cn)
+- 2021, Bachelor of Science in Computer Science & Applied Mathematics, [University at Albany, SUNY](https://www.albany.edu)
+- 2021, Bachelor of Science in Software Engineering, [Chongqing University of Posts and Telecommunications](http://www.cqupt.edu.cn)
 
 
 ## Research
