@@ -12,7 +12,9 @@ author_profile: true
 -->
 
 ### Teaching Assistant
-
+- CS 2800 Logic and Computation, Fall 2022
+- CS 3500 Object-Oriented Design, Summer 1 2022
+- CS 2810 Mathematics of Data Models, Spring 2022
 
 <!-- - STAT 285: Introductory Statistics for Business _(Fall 2019)_
 - FSRM 591: Algorithm Trading & Portfolio Management _(Fall 2018)_
