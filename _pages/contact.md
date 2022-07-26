@@ -12,3 +12,6 @@ author_profile: true
 <!-- ## Full CV available in pdf [here](http://hang-deng.github.io/files/cv.pdf) -->
 
 <!-- # Contact -->
+
+360 Huntington Ave, Boston, MA 02115 \
+Email: wang.pengbo at northeastern dot edu
