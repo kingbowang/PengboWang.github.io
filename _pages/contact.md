@@ -14,4 +14,4 @@ author_profile: true
 <!-- # Contact -->
 
 360 Huntington Ave, Boston, MA 02115 \
-Email: wang (dot) pengbo (at) northeastern (dot) edu
+Email: wang(dot)pengbo(at)northeastern(dot)edu
